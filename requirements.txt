@@ -4,12 +4,4 @@ numpy
 torch
 torchvision
 Pillow
-cv2
-PIL
-Image
 ultralytics
-YOLO
-tempfile
-os
-datetime
-datetime
